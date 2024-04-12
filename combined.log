@@ -1,0 +1,8 @@
+{"level":"info","message":"Parameters 5 and 3 received for addition","service":"calculate-service"}
+{"level":"info","message":"Parameters 10 and 4 received for subtraction","service":"calculate-service"}
+{"level":"info","message":"Parameters 7 and 8 received for multiplication","service":"calculate-service"}
+{"level":"info","message":"Parameters 15 and 3 received for division","service":"calculate-service"}
+{"level":"info","message":"Parameters 2 and 3 received for exponentiation","service":"calculate-service"}
+{"level":"info","message":"Parameter 16 received for square root","service":"calculate-service"}
+{"level":"info","message":"Parameters 17 and 5 received for modulo","service":"calculate-service"}
+{"level":"error","message":"n2 is incorrectly defined","service":"calculate-service"}
